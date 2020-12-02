@@ -1,0 +1,41 @@
+{
+    "directory_id": "REPLACE_THIS",
+    "powerpoint_template": "./runoff_template.pptx",
+    "date": "113020",
+    "authors": "Stephen",
+    "samples": [ 
+        {
+            "chip_id": "FN-K5QYP09-002",
+            "chip_label": "NS-20201120-DTT-A2",
+            "pre_path": "",
+            "post_path": "S000523_RUN_2020_11_30_11_03_18-NS_20201120_DTT_A2_RO2"
+        },
+        {
+            "chip_id": "FN-K5QYP09-011",
+            "chip_label": "NS-20201120-DTT-B2",
+            "pre_path": "",
+            "post_path": "B000077_RUN_2020_11_30_12_29_03-NS_20201120_DTT_B2_RO2"
+        },
+        {
+            "chip_id": "FN-K5QYP09-018",
+            "chip_label": "NS-20201120-DTT-C2",
+            "pre_path": "",
+            "post_path": "B000166_RUN_2020_11_30_13_29_05-NS_20201120_DTT_C2_RO2"
+        },
+        {
+            "chip_id": "FN-K5QYP09-024",
+            "chip_label": "NS-20201120-DTT-D2",
+            "pre_path": "",
+            "post_path": "S000452_RUN_2020_11_30_13_29_07-NS_20201120_DTT_D2_RO2"
+        }
+    ],
+    "presentation_title": "Auto AMP+SEQ for new chip batch from 11/20/20, lambda=1",
+    "updated_date": "11/30/20",
+    "experiment_details": "These chips went through a full AMP + SEQ and were runoff after. These are the results"
+}
+
+	
+	
+	
+	
+
