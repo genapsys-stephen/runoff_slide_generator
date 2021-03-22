@@ -1,14 +1,13 @@
 # Runoff Data Analysis
 
 ## Instructions
-- Must have key.txt, pull_data.py, process.py, config.json (same as "add_plots_to_google_slides_config.json" from slidebuilder)
-- Get key.txt file for accessing Google Cloud APIs from An
+- Must have credentials.json, runoff.py, config.json
 - Command to run: $python runoff.py
 
 
 ## Dependencies
-- Command to install dependencies: $pip install httplib2 apiclient oauth2client python-pptx
-- Command to update apiclient: $pip install --upgrade google-api-python-client
+- Command to install dependencies: $pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib python-pptx
+- Command to update apiclient (May not be required if you don't get an error): $pip install --upgrade google-api-python-client
 - It may give you an error and ask to install some other packages using pip install.
 
 
