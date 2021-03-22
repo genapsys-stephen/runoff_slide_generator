@@ -1,7 +1,7 @@
 # Runoff Data Analysis
 
 ## Instructions
-- Must have credentials.json, runoff.py, config.json
+- Must have runoff_template.pptx, credentials.json, runoff.py, config.json
 - Command to run: $python runoff.py
 
 
