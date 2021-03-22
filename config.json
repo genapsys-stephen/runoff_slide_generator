@@ -1,41 +1,32 @@
 {
-    "directory_id": "REPLACE THIS",
+    "directory_id": "CHANGE THIS TO YOUR GOOGLE DRIVE DIRECTORY ID",
     "powerpoint_template": "./runoff_template.pptx",
-    "date": "113020",
+    "date": "031821",
     "authors": "Stephen",
-    "samples": [ 
+    "amp_method": "integrated",
+    "automated": false,
+    "seq_status": "post",
+    "QC": false,
+    "save_to_csv": true,
+    "create_presentation": false,
+    "samples": [
         {
-            "chip_id": "FN-K5QYP09-002",
-            "chip_label": "NS-20201120-DTT-A2",
-            "pre_path": "",
-            "post_path": "S000523_RUN_2020_11_30_11_03_18-NS_20201120_DTT_A2_RO2"
+            "chip_id": "FN-K5PC517-096",
+            "chip_label": "BS-20210310-E2",
+            "path": "B000074_RUN_2021_03_22_08_14_24-BS_20210310_E2_RO2"
         },
         {
-            "chip_id": "FN-K5QYP09-011",
-            "chip_label": "NS-20201120-DTT-B2",
-            "pre_path": "",
-            "post_path": "B000077_RUN_2020_11_30_12_29_03-NS_20201120_DTT_B2_RO2"
+            "chip_id": "FN-K5PC517-097",
+            "chip_label": "BS-20210310-E3",
+            "path": "B000153_RUN_2021_03_22_08_15_39-BS_20210310_E3_RO2"
         },
         {
-            "chip_id": "FN-K5QYP09-018",
-            "chip_label": "NS-20201120-DTT-C2",
-            "pre_path": "",
-            "post_path": "B000166_RUN_2020_11_30_13_29_05-NS_20201120_DTT_C2_RO2"
-        },
-        {
-            "chip_id": "FN-K5QYP09-024",
-            "chip_label": "NS-20201120-DTT-D2",
-            "pre_path": "",
-            "post_path": "S000452_RUN_2020_11_30_13_29_07-NS_20201120_DTT_D2_RO2"
+            "chip_id": "FN-K5PC517-098",
+            "chip_label": "BS-20210310-E4",
+            "path": "B000166_RUN_2021_03_22_08_16_16-BS_20210310_E4_RO2"
         }
     ],
-    "presentation_title": "Auto AMP+SEQ for new chip batch from 11/20/20, lambda=1",
-    "updated_date": "11/30/20",
-    "experiment_details": "These chips went through a full AMP + SEQ and were runoff after. These are the results"
+    "presentation_title": "Manual Integrated AMP Controls, l=0.5, 40C, 120min (3/18/21)",
+    "updated_date": "3/22/21",
+    "experiment_details": ""
 }
-
-	
-	
-	
-	
-

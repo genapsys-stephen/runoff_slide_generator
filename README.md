@@ -1,13 +1,15 @@
 # READ ME
 
 ## Dependencies
-- pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib python-pptx
+- Command to install dependencies: $pip install httplib2 apiclient oauth2client python-pptx
+- Command to update apiclient: $pip install --upgrade google-api-python-client
+- It may give you an error and ask to install some other packages using pip install.
 
 
-## OS/environment support
-- Has only been tested & verified on Windows
-- Has NOT been verified to work on Unix yet
-- Not supported for Mac OS yet
+## Potential Errors
+- Runoff analysis is not complete yet
+- There are occasionally typos in the analysis labels/runoff runIDs so be aware
+
 
 
 ## How to use
